@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/0427-yucho-chow/static/css/main.7c21ca88.chunk.css",
+    "main.js": "/0427-yucho-chow/static/js/main.8f7214d6.chunk.js",
+    "main.js.map": "/0427-yucho-chow/static/js/main.8f7214d6.chunk.js.map",
+    "runtime~main.js": "/0427-yucho-chow/static/js/runtime~main.33bd2a6a.js",
+    "runtime~main.js.map": "/0427-yucho-chow/static/js/runtime~main.33bd2a6a.js.map",
+    "static/css/2.80ae4c05.chunk.css": "/0427-yucho-chow/static/css/2.80ae4c05.chunk.css",
+    "static/js/2.db8ffca6.chunk.js": "/0427-yucho-chow/static/js/2.db8ffca6.chunk.js",
+    "static/js/2.db8ffca6.chunk.js.map": "/0427-yucho-chow/static/js/2.db8ffca6.chunk.js.map",
+    "index.html": "/0427-yucho-chow/index.html",
+    "precache-manifest.f884b96143799a6353a30d6e24df8633.js": "/0427-yucho-chow/precache-manifest.f884b96143799a6353a30d6e24df8633.js",
+    "service-worker.js": "/0427-yucho-chow/service-worker.js",
+    "static/css/2.80ae4c05.chunk.css.map": "/0427-yucho-chow/static/css/2.80ae4c05.chunk.css.map",
+    "static/css/main.7c21ca88.chunk.css.map": "/0427-yucho-chow/static/css/main.7c21ca88.chunk.css.map",
+    "static/media/Carousel.css": "/0427-yucho-chow/static/media/yc_w_camera-1930.d3fd558a.jpg",
+    "static/media/index.css": "/0427-yucho-chow/static/media/Shift-BoldItalic.5c3edbfd.otf",
+    "static/media/yucho-chow-anim.mp4": "/0427-yucho-chow/static/media/yucho-chow-anim.a2ad1fb4.mp4"
+  }
+}
