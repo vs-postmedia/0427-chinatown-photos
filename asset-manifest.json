@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/0427-chinatown-photos/static/css/main.8df35864.chunk.css",
-    "main.js": "/0427-chinatown-photos/static/js/main.58180dd0.chunk.js",
-    "main.js.map": "/0427-chinatown-photos/static/js/main.58180dd0.chunk.js.map",
+    "main.js": "/0427-chinatown-photos/static/js/main.70dfbbbb.chunk.js",
+    "main.js.map": "/0427-chinatown-photos/static/js/main.70dfbbbb.chunk.js.map",
     "runtime~main.js": "/0427-chinatown-photos/static/js/runtime~main.47e788dd.js",
     "runtime~main.js.map": "/0427-chinatown-photos/static/js/runtime~main.47e788dd.js.map",
     "static/css/2.608cde3e.chunk.css": "/0427-chinatown-photos/static/css/2.608cde3e.chunk.css",
     "static/js/2.a8a1d097.chunk.js": "/0427-chinatown-photos/static/js/2.a8a1d097.chunk.js",
     "static/js/2.a8a1d097.chunk.js.map": "/0427-chinatown-photos/static/js/2.a8a1d097.chunk.js.map",
     "index.html": "/0427-chinatown-photos/index.html",
-    "precache-manifest.f5855c174cdc7ecc33bedd93c49a7884.js": "/0427-chinatown-photos/precache-manifest.f5855c174cdc7ecc33bedd93c49a7884.js",
+    "precache-manifest.00d41a969fcc903caeef6a65956d0255.js": "/0427-chinatown-photos/precache-manifest.00d41a969fcc903caeef6a65956d0255.js",
     "service-worker.js": "/0427-chinatown-photos/service-worker.js",
     "static/css/2.608cde3e.chunk.css.map": "/0427-chinatown-photos/static/css/2.608cde3e.chunk.css.map",
     "static/css/main.8df35864.chunk.css.map": "/0427-chinatown-photos/static/css/main.8df35864.chunk.css.map",
     "static/media/Carousel.css": "/0427-chinatown-photos/static/media/yc_w_camera-1930.d3fd558a.jpg",
     "static/media/index.css": "/0427-chinatown-photos/static/media/Shift-BoldItalic.5c3edbfd.otf",
-    "static/media/yucho-chow-anim.mp4": "/0427-chinatown-photos/static/media/yucho-chow-anim.a2ad1fb4.mp4"
+    "static/media/yucho-chow-anim.mp4": "/0427-chinatown-photos/static/media/yucho-chow-anim.70b7fb78.mp4"
   }
 }

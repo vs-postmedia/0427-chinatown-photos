@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/0427-chinatown-photos/precache-manifest.f5855c174cdc7ecc33bedd93c49a7884.js"
+  "/0427-chinatown-photos/precache-manifest.00d41a969fcc903caeef6a65956d0255.js"
 );
 
 self.addEventListener('message', (event) => {
