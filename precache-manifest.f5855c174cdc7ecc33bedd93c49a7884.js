@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba3a3ad35fbc0a0007d2b844546f4be5",
+    "revision": "9e0ad363e330f9637aecc278bf5b5633",
     "url": "/0427-chinatown-photos/index.html"
   },
   {
-    "revision": "8a3bd23ec1df8591e061",
+    "revision": "e8488766e1219f438793",
     "url": "/0427-chinatown-photos/static/css/2.608cde3e.chunk.css"
   },
   {
-    "revision": "934b2282122da527f253",
-    "url": "/0427-chinatown-photos/static/css/main.175f7a6d.chunk.css"
+    "revision": "8ac4ef44ab68414b5b9f",
+    "url": "/0427-chinatown-photos/static/css/main.8df35864.chunk.css"
   },
   {
-    "revision": "8a3bd23ec1df8591e061",
-    "url": "/0427-chinatown-photos/static/js/2.db8ffca6.chunk.js"
+    "revision": "e8488766e1219f438793",
+    "url": "/0427-chinatown-photos/static/js/2.a8a1d097.chunk.js"
   },
   {
-    "revision": "934b2282122da527f253",
-    "url": "/0427-chinatown-photos/static/js/main.18372a43.chunk.js"
+    "revision": "8ac4ef44ab68414b5b9f",
+    "url": "/0427-chinatown-photos/static/js/main.58180dd0.chunk.js"
   },
   {
     "revision": "47535c741dac9f0ab828",
