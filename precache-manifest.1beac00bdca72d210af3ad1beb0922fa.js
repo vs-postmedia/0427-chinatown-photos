@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "680243e1a011b67c410b23f631e4c27a",
+    "revision": "b79d0f419737eb9a803e12c412642f1e",
     "url": "/0427-chinatown-photos/index.html"
   },
   {
-    "revision": "e8488766e1219f438793",
+    "revision": "aa37e964333faa27782e",
     "url": "/0427-chinatown-photos/static/css/2.608cde3e.chunk.css"
   },
   {
-    "revision": "922906ee5abfec34ad34",
-    "url": "/0427-chinatown-photos/static/css/main.8df35864.chunk.css"
+    "revision": "6ecbd4815cc0fbcbd099",
+    "url": "/0427-chinatown-photos/static/css/main.e581acd1.chunk.css"
   },
   {
-    "revision": "e8488766e1219f438793",
-    "url": "/0427-chinatown-photos/static/js/2.a8a1d097.chunk.js"
+    "revision": "aa37e964333faa27782e",
+    "url": "/0427-chinatown-photos/static/js/2.647bf64d.chunk.js"
   },
   {
-    "revision": "922906ee5abfec34ad34",
-    "url": "/0427-chinatown-photos/static/js/main.70dfbbbb.chunk.js"
+    "revision": "6ecbd4815cc0fbcbd099",
+    "url": "/0427-chinatown-photos/static/js/main.b4be7bd9.chunk.js"
   },
   {
     "revision": "47535c741dac9f0ab828",
@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/0427-chinatown-photos/static/media/yc_w_camera-1930.d3fd558a.jpg"
   },
   {
-    "revision": "70b7fb788c80fcc2c6b3a11dfc7dba88",
-    "url": "/0427-chinatown-photos/static/media/yucho-chow-anim.70b7fb78.mp4"
+    "revision": "967a1e45ceb397e455953689079762bd",
+    "url": "/0427-chinatown-photos/static/media/yucho-chow-anim_1.967a1e45.mp4"
   }
 ]);
